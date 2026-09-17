@@ -3,8 +3,8 @@ class NotionBg < Formula
 
   desc "Mesh-gradient cover images for Notion pages, from a terminal UI or a CLI"
   homepage "https://github.com/dj-skn/notion-bg-gen"
-  url "https://files.pythonhosted.org/packages/e0/56/e6b942f398e485d291ac6f426fb8320d5521d5ec90023c68449c9b211b0a/notion_bg_gen-1.0.0.tar.gz"
-  sha256 "723bd9f96d5722a6bf43ebad6938a1309c75301c9825172bd61705e62e4d8b5b"
+  url "https://files.pythonhosted.org/packages/source/n/notion-bg-gen/notion_bg_gen-1.0.1.tar.gz"
+  sha256 "66c3207b20b754b261797ccbe1110488965bc07d90da5d2b8fdd41563b4961bb"
   license "MIT"
   head "https://github.com/dj-skn/notion-bg-gen.git", branch: "main"
 
