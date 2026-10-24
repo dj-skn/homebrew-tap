@@ -20,6 +20,7 @@ brew install notion-bg
 | Formula | Description |
 |---|---|
 | `notion-bg` | [notion-bg-gen](https://github.com/dj-skn/notion-bg-gen) - mesh-gradient cover images for Notion pages |
+| `schedule-send` | [schedule-send](https://github.com/dj-skn/schedule-send) - scheduled messages for Herdr agents |
 
 ## Maintenance
 
